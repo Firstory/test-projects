@@ -36,7 +36,6 @@ export class AppController {
   @Get('/me')
   me() {
     // TODO
-
     return {
       email: '',
     };
